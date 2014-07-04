@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "jade": {},
+    "iron-router": {},
+    "leaflet": {},
+    "less-bootstrap-3": {},
+    "accounts-ui-bootstrap-3": {}
+  }
+}
